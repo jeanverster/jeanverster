@@ -33,7 +33,7 @@ If you want to get in touch, find me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://cdn.iconscout.com/icon/free/png-256/twitter-circle-1868970-1583134.png (twitter icon)
 
 <!-- Links to your social media accounts -->
 
