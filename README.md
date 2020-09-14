@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hi! My name is Jean Verster 👋
 
 #### I'm a Full Stack Software developer from Johannesburg, South Africa.
-#### I'm passionate about all things tech, and have been working predominantly with React & React Native over the last few years. When not writing code, you can find me hacking my way around a golf course 🏌🏼
+#### I'm passionate about all things tech, although I have been specializing in React & React Native over the last few years. When not writing code, you can find me hacking my way around a golf course 🏌🏼
 
 <br />
 
@@ -26,3 +26,15 @@ Here are some ideas to get you started:
 
 ### 💼 Currently working at
 - [SovTech](https://sovtech.com)
+
+<!-- Actual text -->
+
+If you want to get in touch, find me on [![Twitter][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/jeanverster
