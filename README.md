@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 #### I'm a Full Stack Software developer from Johannesburg, South Africa.
 #### I'm passionate about all things tech, and have been working predominantly with React & React Native over the last few years. When not writing code, you can find me hacking my way around a golf course 🏌🏼
 
+<br />
+
 [![jeanverster's github stats](https://github-readme-stats.vercel.app/api?username=jeanverster)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💼 Currently working at
