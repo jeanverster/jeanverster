@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-If you want to get in touch, find me on [![Twitter][1.2]][1]
+[![Twitter][1.2]][1]
 
 <!-- Icons -->
 
