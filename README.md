@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi! My name is Jean Verster 👋
+## Hi! 👋
 
 #### I'm a Full Stack Software developer from Johannesburg, South Africa.
 #### I'm passionate about all things tech, although I have been specializing in React & React Native over the last few years. When not writing code, you can find me hacking my way around a golf course 🏌🏼
