@@ -1,4 +1,4 @@
-# Hi, I'm Jean Verster 👋
+## Hi, I'm Jean Verster 👋
 
 I am a **Fullstack Developer** from **Johannesburg, South Africa**. I'm passionate about all things tech, although I have been specializing in React & React Native over the last few years. When not writing code, you can find me hacking my way around a golf course 🏌🏼
 
@@ -18,6 +18,7 @@ I am a **Fullstack Developer** from **Johannesburg, South Africa**. I'm passiona
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
