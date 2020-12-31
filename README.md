@@ -2,7 +2,7 @@
 
 I am a **Fullstack Developer** from **Johannesburg, South Africa**. I'm passionate about all things tech, although I have been specializing in React & React Native over the last few years. When not writing code, you can find me hacking my way around a golf course 🏌🏼
 
-**Tech I Enjoy**
+### Tech I Enjoy
 
 <p>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -33,7 +33,5 @@ I am a **Fullstack Developer** from **Johannesburg, South Africa**. I'm passiona
 - 🌱 I’m currently looking to learning **Python**
 - 👯 I’m looking to collaborate more on **Open Source** projects
 - 📫 How to reach me: **[Twitter](https://twitter.com/jeanverster)**
-
-**My Stats**
 
 [![jeanverster's github stats](https://github-readme-stats.vercel.app/api?username=jeanverster)](https://github.com/anuraghazra/github-readme-stats)
