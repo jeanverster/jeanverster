@@ -5,16 +5,16 @@ I am a **Fullstack Developer** from **Johannesburg, South Africa**. I'm passiona
 **Tech I Enjoy**
 
 <p>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node%20JS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
@@ -25,8 +25,7 @@ I am a **Fullstack Developer** from **Johannesburg, South Africa**. I'm passiona
     <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-  </p>
-<br />
+</p>
 
 - 🏢 I’m currently working as a **Senior Software Developer** at [SovTech](https://sovtech.com)
 - 🌱 I’m currently looking to learning **Python**
