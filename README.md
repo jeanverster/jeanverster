@@ -1,6 +1,6 @@
 ## Hi, I'm Jean Verster 👋
 
-I am a **Fullstack Developer** from **Johannesburg, South Africa**. I'm passionate about all things tech, although I have been specializing in React & React Native over the last few years. When not writing code, you can find me hacking my way around a golf course 🏌🏼
+I am a **Fullstack Developer** from **Johannesburg, South Africa**, currently based in **Amsterdam**. I'm passionate about all things tech, although I have been specializing in React & React Native over the last few years. When not writing code, you can find me hacking my way around a golf course 🏌🏼
 
 ### Tech I Enjoy
 
