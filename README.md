@@ -31,7 +31,7 @@ I am a **Fullstack Developer** from **Johannesburg, South Africa**, currently ba
 
 ### Currently...
 
-- 🏢 I’m currently working as a **Frontend Engineer** at [Secfi](https://secfi.com)
+- 🏢 I’m currently working as a **Senior Frontend Engineer** at [Secfi](https://secfi.com)
 - 🌱 I’m currently looking to learning **Python**
 - 👯 I’m looking to collaborate more on **Open Source** projects
 - 📫 How to reach me: **[Twitter](https://twitter.com/jeanverster)**
